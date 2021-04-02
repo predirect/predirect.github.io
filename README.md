@@ -1,4 +1,2 @@
-# predirect.github.io
-the only redirect service of pwbc.xyz
-
-Do not contribute.
+# PWBC 跳转服务
+PWBC的个人跳转服务。
